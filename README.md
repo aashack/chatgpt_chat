@@ -17,10 +17,10 @@ You will need to set this up on the openAI site, create a secret key like you cr
 Install dependencies:
 
 ```bash
-npm Install
+npm i
 ```
 
-Run the bot:
+Run the program:
 
 ```bash
 npm start
